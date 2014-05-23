@@ -1,7 +1,7 @@
 samples-chrome-dart
 ======================
 
-This sample shows simple Dart sample transformed into a Chrome packaged app deployable as hybrid mobile app using Google Chrome APIs in Telerik AppBuilder. You can clone this sample in Telerik AppBuilder, explore and modify the code, and build and run it on Android or iOS devices.
+This sample shows how to develop a simple clock with DART and the Google Chrome APIs in Telerik AppBuilder. You can clone this sample in Telerik AppBuilder, explore and modify the code, and build and run it on Android or iOS devices.
 
 ## Telerik AppBuilder and Chrome APIs
 
@@ -13,7 +13,7 @@ Each Chrome API might depend on another Chrome API or a core Apache Cordova plug
 
 ## Sample Overview
 
-The Telerik AppBuilder team has modified the existing Chrome Dart mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome Dart mobile sample <a href="https://github.com/Icenium/samples-chrome-dart/tree/master/samples-chrome-dart" target="_blank">here</a>. This sample is a simple clock implementation in Dart that is packaged as chrome application.
+The Telerik AppBuilder team has modified the existing Chrome DART mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome Dart mobile sample <a href="https://github.com/Icenium/samples-chrome-dart/tree/master/samples-chrome-dart" target="_blank">here</a>. This sample is a simple clock developed with DART and packaged as a Chrome application.
 
 The sample is initialized as a Chrome app. For more information about the development of Chrome apps, including the app container, click <a href="https://developer.chrome.com/apps/first_app" target="_blank">here</a>. 
 
@@ -21,8 +21,8 @@ All required Chrome APIs, including mobile and desktop APIs on which the app rel
 
 The sample shows how to use the following methods and objects of the mobile Google Chrome APIs.
 
-* **Runtime:**&nbsp;Lets you manage the app lifecycle
-* **Window:**&nbsp;Lets you create windows
+* **runtime:**&nbsp;Lets you manage the app lifecycle.
+* **window:**&nbsp;Lets you create windows.
 
 ## Cloning the Sample
 
@@ -77,4 +77,4 @@ With Telerik AppBuilder, you can deploy apps on device wirelessly or via cable c
 
 ## License
 
-[License](LICENSE.md)
+This sample is licensed under the Apache License, Version 2.0. For more information, see [License](LICENSE.md).
