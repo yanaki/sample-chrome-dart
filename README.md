@@ -1,4 +1,4 @@
-samples-chrome-dart
+sample-chrome-dart
 ======================
 
 This sample shows how to develop a simple clock with DART and the Google Chrome APIs in Telerik AppBuilder. You can clone this sample in Telerik AppBuilder, explore and modify the code, and build and run it on Android or iOS devices.
@@ -13,7 +13,7 @@ Each Chrome API might depend on another Chrome API or a core Apache Cordova plug
 
 ## Sample Overview
 
-The Telerik AppBuilder team has modified the existing Chrome DART mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome Dart mobile sample <a href="https://github.com/Icenium/samples-chrome-dart/tree/master/samples-chrome-dart" target="_blank">here</a>. This sample is a simple clock developed with DART and packaged as a Chrome application.
+The Telerik AppBuilder team has modified the existing Chrome DART mobile sample to make it compatible with Telerik AppBuilder. You can find the source Chrome Dart mobile sample <a href="https://github.com/GoogleChrome/chrome-app-samples/tree/master/dart" target="_blank">here</a>. This sample is a simple clock developed with DART and packaged as a Chrome application.
 
 The sample is initialized as a Chrome app. For more information about the development of Chrome apps, including the app container, click <a href="https://developer.chrome.com/apps/first_app" target="_blank">here</a>. 
 
@@ -34,7 +34,7 @@ You can clone this sample in Telerik AppBuilder, explore and modify the code, an
 1. Navigate to the workspace in which you want to clone the sample.
 1. Click **Create project** and select **AppBuilder**.
 1. Select **Clone repository**.
-1. In the **Repository Uri** text box, paste `https://github.com/Icenium/samples-chrome-dart.git`.
+1. In the **Repository Uri** text box, paste `https://github.com/Icenium/sample-chrome-dart.git`.
 1. Provide a project name.
 1. (Optional) Provide a project description.
 1. Click **Create project**.
@@ -44,13 +44,13 @@ You can clone this sample in Telerik AppBuilder, explore and modify the code, an
 1. Run the Windows client and log in.
 1. In the **Dashboard**, click **Clone**.
 1. From the **Workspace** drop-down list, select the workspace in which you want to clone the sample.
-1. In the **Repository Uri** text box, paste `https://github.com/Icenium/samples-chrome-dart.git`.
+1. In the **Repository Uri** text box, paste `https://github.com/Icenium/sample-chrome-dart.git`.
 1. Provide a project name.
 1. Click **Clone**.
 
 ### Clone the sample in the extension for Visual Studio
 
-1. In your browser, navigate to <a href="https://github.com/Icenium/samples-chrome-dart" target="_blank">https://github.com/Icenium/samples-chrome-dart</a>.
+1. In your browser, navigate to <a href="https://github.com/Icenium/sample-chrome-dart" target="_blank">https://github.com/Icenium/sample-chrome-dart</a>.
 1. Click **Download ZIP**, store the archive on your local file system and extract it.
 1. In {{ms-vs}}, create a new project from the *Blank* template.
 1. In the **Solution Explorer**, select the `css`, `img`, `js`, and `App_Resources` folders, and the `index.html` file.
@@ -62,7 +62,7 @@ You can clone this sample in Telerik AppBuilder, explore and modify the code, an
 
 ### Clone the sample in the command-line interface
 
-1. In your browser, navigate to <a href="https://github.com/Icenium/samples-chrome-dart" target="_blank">https://github.com/Icenium/samples-chrome-dart</a>.
+1. In your browser, navigate to <a href="https://github.com/Icenium/sample-chrome-dart" target="_blank">https://github.com/Icenium/sample-chrome-dart</a>.
 1. Click **Download ZIP**, store the archive on your local file system and extract it.
 1. Run a command prompt, log in, and navigate to the folder that contains the `PROJ` file for the sample app.
 1. Run `$ appbuilder init`.
